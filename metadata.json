@@ -1,0 +1,6 @@
+{
+  "name": "CommitRoom",
+  "description": "A real-time public commitment chat room. Check in with your focus task for the next 30 minutes and stay accountable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
